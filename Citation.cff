@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Digital Twin-Based Stochastic Energy Resilience Modelling of Cape Town Municipal Facilities under Load Shedding"
+
+message: "If you use this repository, its code, or derived materials in your research, please cite this repository and the associated research study."
+
+type: software
+
+authors:
+  - given-names: "Kingsley"
+    family-names: "Ofori"
+    affiliation: "University of Johannesburg, Department of Construction Management and Quantity Surveying"
+    orcid: "https://orcid.org/0009-0000-5950-0892"
+
+repository-code: "https://github.com/kingsleyofori/research-digital-twin-resilience"
+
+abstract: >
+  This repository contains the research code, data-processing procedures,
+  stochastic simulation models, resilience calculations, and interactive
+  visualisation developed for the study of energy resilience in Cape Town
+  municipal facilities under load shedding. The study combines historical
+  municipal electricity-use data with historical electricity-disruption
+  records within a digital twin-based stochastic modelling framework.
+
+keywords:
+  - "digital twin"
+  - "energy resilience"
+  - "load shedding"
+  - "municipal facilities"
+  - "building energy"
+  - "stochastic modelling"
+  - "Cape Town"
+  - "South Africa"
+  - "PyDeck"
+  - "Python"
+
+license: "MIT"
+
+version: 1.0.0
+
+date-released: 2026-09-27
